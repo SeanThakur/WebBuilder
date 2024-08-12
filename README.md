@@ -1,12 +1,11 @@
-# Website Builder Demo
+# Website Builder
 
-This is a demo project for a Website Builder application that allows users to create, edit, and preview websites using a drag-and-drop interface. The builder includes support for various elements, styling customization, preview modes, and more.
+This is a project for a Website Builder application that allows users to create, edit, and preview websites using a drag-and-drop interface. The builder includes support for various elements, styling customization, preview modes, and more.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 
 ## Features
 
@@ -86,22 +85,3 @@ npm dev
 ```
 
 The application will be available at [http://localhost:3000](http://localhost:3000).
-
-## Usage
-
-### Drag-and-Drop Interface
-
-- **Drag Elements:** Drag elements such as images, text, links, videos, and containers from the sidebar onto the canvas.
-- **Element Customization:** Click on any element to access its styling properties in the sidebar. Customize the element's properties, including:
-  - Size
-  - Color
-  - Alignment
-  - And more
-
-### Preview Mode
-
-- **Toggle Preview:** Switch between edit and preview modes using the "Preview" button. This feature allows you to see how your website will look when published.
-
-### Undo/Redo
-
-- **Undo/Redo Buttons:** Easily revert to previous states or redo changes with the undo and redo buttons.
